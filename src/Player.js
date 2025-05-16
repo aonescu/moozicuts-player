@@ -2,8 +2,8 @@ import React from "react";
 
 const songs = [
   {
-    name: "Test Song",
-    url: "https://tinyurl.com/moozicuts/01%20-%20Kyoto.flac"
+    name: "Kyoto - Yung Lean",
+    url: "https://bf7d-2a00-1858-1028-8442-587c-dcfe-637a-b865.ngrok-free.app/01-Kyoto.mp3"
   },
   // add more if needed
 ];
